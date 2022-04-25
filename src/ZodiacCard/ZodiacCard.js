@@ -5,7 +5,7 @@ export default function ZodiacCard({ zodiac }) {
   return (
     <div className='zodiac-card'>
       <p className='name'>{zodiac.name}</p>
-      <p className='name'>{zodiac.dates}</p>
+      <p className='name'>{zodiac.datesgit }</p>
     </div>
   );
 }
