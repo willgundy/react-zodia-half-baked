@@ -1,5 +1,5 @@
 .zodiac-card {
-  width: 200px;
+  width: 190px;
   background-color: var(--color2);
   margin: 10px;
   border-radius: 5px;
@@ -17,5 +17,12 @@
 .zodiac-card .name {
   text-transform: uppercase;
   font-weight: bold;
+  font-family: 'Space and Astronomy';
+}
+
+.zodiac-card .date {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
   font-family: 'Space and Astronomy';
 }
