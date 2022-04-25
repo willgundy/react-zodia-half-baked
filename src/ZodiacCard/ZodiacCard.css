@@ -19,3 +19,10 @@
   font-weight: bold;
   font-family: 'Space and Astronomy';
 }
+
+.zodiac-card .date {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Space and Astronomy';
+}
